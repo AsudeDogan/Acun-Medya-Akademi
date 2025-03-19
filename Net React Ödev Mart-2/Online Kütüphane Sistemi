@@ -1,1 +1,10 @@
+Konu: Online Kütüphane Yönetim Sistemi
 
+Bu odevde, bir universite kutuphanesinin veri modelini tasarlayiniz.
+Sistemde, ögrencilerin kitap ödünç almasi, kitaplarin kategorilere ayrilmasi, yazarlarin tanimlanmasi ve kütüphane görevlilerinin islemleri
+yonetmesi gibi islemler yapilabilmelidir.
+
+ER Diagram (iliskisel Model) çizimi
+Kütüphane yönetim sisteminin tablolarini içeren bir ER Diagram gizin.
+Tablolar arasindaki iliskileri gösterin. (1-N, N-N iliskileri belirtin)
+Her tablonun PRIMARY KEY ve FOREIGN KEY iliskilerini dogru bir sekilde tanimlayin.
